@@ -1,2 +1,2 @@
-# artmove
+# ArtMove
 CS464 Project
